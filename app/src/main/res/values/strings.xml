@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GitLabIssueBoard</string>
+    <string name="app_name">GitLab Issue Board</string>
     <string-array
         name="tab_name">
         <item

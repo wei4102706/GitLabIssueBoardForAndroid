@@ -1,4 +1,4 @@
 package com.example.gitlabissueboard;
 
-public class AllFragment {
+class AllFragment {
 }
