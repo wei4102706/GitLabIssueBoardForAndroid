@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">GitLabIssueBoard</string>
+    <string-array
+        name="tab_name">
+        <item
+            >Opened</item>
+        <item
+            >Closed</item>
+        <item
+            >All</item>
+    </string-array>
+    <string name="title_filter">Title Filter</string>
+    <string name="refresh">Refresh</string>
+    <string name="test">test</string>
 </resources>
