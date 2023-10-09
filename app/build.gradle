@@ -54,4 +54,14 @@ dependencies {
     kapt "androidx.room:room-compiler:2.4.2"
     implementation "androidx.room:room-ktx:2.4.3"
 
+    // Retrofit with Moshi Converter
+    implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
+    // gson
+    implementation 'com.google.code.gson:gson:2.8.2'
+    // gson converter factory
+    implementation 'com.squareup.retrofit2:converter-gson:2.2.0'
+
+    //Flow
+    testImplementation 'app.cash.turbine:turbine:0.11.0'
+
 }
